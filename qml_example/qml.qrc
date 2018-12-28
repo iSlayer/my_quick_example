@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MyTextBox.qml</file>
+    </qresource>
+</RCC>
